@@ -1,4 +1,4 @@
-FROM php:8.1.0-fpm-alpine
+FROM php:8.1.1-fpm-alpine
 
 ARG WWWGROUP=GID 
 ARG WWWUSER=UID 
